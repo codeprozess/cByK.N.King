@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+
+int main(void) 
+// void means main has no arguments
+{
+	printf("Sphere volume: %.2f cubic meters\n", 4.0f/3.0f * 3.14f * 1000);
+	return 0;
+	
+	
+}
