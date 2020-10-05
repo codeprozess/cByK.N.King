@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+
+int main(void) 
+// void means main has no arguments
+{
+	printf("       *\n");
+	printf("      *\n");
+	printf("     *\n");
+	printf("*   *\n");
+	printf(" * *\n");
+	printf("  *  \n");
+	
+}
